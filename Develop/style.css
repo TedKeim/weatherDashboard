@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    background-color: rgb(72, 120, 184);
+    color: white;
+    height: 60px;
+}
+
+.button {
+background-color: rgba(72, 120, 184);
+color: white;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+
